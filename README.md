@@ -1,2 +1,2 @@
-# c-DSA
+# DSA
 Journey for DSA
